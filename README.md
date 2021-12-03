@@ -30,4 +30,14 @@ _Just some pentester, developer kinda guy. I like to make and break things. Some
 * Horus - Shodan Powered Scanner for IP Cameras
 * Gas - Cheat loader & DLL Injector
 ---
-![](https://komarev.com/ghpvc/?username=STBRR&label=Profile+Visits&color=blueviolet&style=flat)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=STBRR&show_icons=true&theme=dracula"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=STBRR&label=Profile+Visits&color=blueviolet&style=flat"/>
+</p>
+
