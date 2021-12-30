@@ -41,3 +41,9 @@ _Just some pentester, developer kinda guy. I like to make and break things. Some
   <img src="https://komarev.com/ghpvc/?username=STBRR&label=Profile+Visits&color=blueviolet&style=flat"/>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-1/264157830733496320.png"/>
+</p>
+
