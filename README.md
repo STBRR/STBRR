@@ -10,6 +10,7 @@ _Just some pentester, developer kinda guy. I like to make and break things. Some
 - 📖 I'm currently learning: _Go(lang)_
 - 📫 How to reach me: _LIAM#1337 on Discord_
 - 😄 What I enjoy: _Hacking, CTFs, Programming, Video Games_
+- 🏆 2022 Goals: _Bug Bounties, Security Certifications & Positivity #Hack2Learn_
 ---
 #### **Public Profiles**
 * [HackTheBox](https://app.hackthebox.com/profile/6123)
