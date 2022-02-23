@@ -3,12 +3,12 @@
 
 ---
 
-_Just some pentester, developer kinda guy. I like to make and break things. Sometimes i write code and mess around with video games._
+_Just some pentester, developer kinda guy. I like to make and break things. Sometimes i write code and mess around with video games. I also hold the OSCP certification so i guess that's both a subtle flex and means i kinda know what i'm on about, right?_
 
 ---
-- ✨ I'm currently working on: _Developing my Pentesting Skills (within the realm of Pwning / Reverse Enginnering)_
-- 📖 I'm currently learning: _Go(lang)_
-- 📫 How to reach me: _LIAM#1337 on Discord_
+- ✨ I'm currently working on: _Completing 'Practical Network Penetration Tester'(PNTP) Certification by TCM Security_
+- 📖 I'm currently learning: _Go(lang), C_
+- 📫 How to reach me: _LIAM#9934 on Discord_
 - 😄 What I enjoy: _Hacking, CTFs, Programming, Video Games_
 - 🏆 2022 Goals: _Bug Bounties, Security Certifications & Positivity #Hack2Learn_
 ---
