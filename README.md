@@ -45,7 +45,3 @@ _Just some pentester, developer kinda guy. I like to make and break things. Some
 
 ---
 
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/264157830733496320.png"/>
-</p>
-
