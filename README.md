@@ -3,10 +3,10 @@
 
 ---
 
-_Just some pentester, developer kinda guy. I like to make and break things. Sometimes i write code and mess around with video games. I also hold the OSCP certification so i guess that's both a subtle flex and means i kinda know what i'm on about, right?_
+_Just some pentester, developer kinda guy. I like to make and break things. Sometimes i write code and mess around with video games. I also hold the OSCP & PNPT certifications so i guess that's both a subtle/weird flex and means i kinda know what i'm on about, right?_
 
 ---
-- ✨ I'm currently working on: _Completing 'Practical Network Penetration Tester'(PNTP) Certification by TCM Security_
+- ✨ I'm currently working on: _I have no idea, at the moment._
 - 📖 I'm currently learning: _Go(lang), C_
 - 📫 How to reach me: _LIAM#9934 on Discord_
 - 😄 What I enjoy: _Hacking, CTFs, Programming, Video Games_
@@ -24,6 +24,7 @@ _Just some pentester, developer kinda guy. I like to make and break things. Some
 * Linux Server Administration
 * Networking
 * Git
+* Active Directory
 
 #### **Previous Projects**
 * Yamato - Roleplay Server Build for FiveM
